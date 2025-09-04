@@ -13,8 +13,8 @@ python main.py --method mixup/erm --mode dp --lam 0.5
 python main_dp.py --method mixup/erm --lam 1.0 --target_id 2/31/33
 ```
 ## Recommended Lambda
-Adult: 0.1 ~ 1.0 
-Celeba: 1.0 ~ 5.0
+**Adult:** 0.1 ~ 1.0   
+**Celeba:** 1.0 ~ 5.0
 
 ## References
 https://github.com/chingyaoc/fair-mixup
